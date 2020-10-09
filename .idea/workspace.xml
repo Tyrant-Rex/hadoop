@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cd235d1-4e8a-40f7-b30a-1768049fe2cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Desktop/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Desktop/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ia5X3XWza6xlebHj4Dhf1MIHsL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/IKAnalyzer2012.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.SecondJob">
+    <configuration name="FirstJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TF_IDF.FirstJob" />
+      <module name="hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TF_IDF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IKtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.IKtest" />
+      <module name="hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LastJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TF_IDF.LastJob" />
+      <module name="hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TF_IDF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TF_IDF.SecondJob" />
+      <module name="hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TF_IDF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordCount.WordCount" />
+      <module name="hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WordCount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SecondJob" />
+        <item itemvalue="Application.FirstJob" />
+        <item itemvalue="Application.IKtest" />
+        <item itemvalue="Application.LastJob" />
+        <item itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cd235d1-4e8a-40f7-b30a-1768049fe2cc" name="Default Changelist" comment="" />
+      <created>1602132899626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602132899626</updated>
+      <workItem from="1602132903177" duration="17120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="27" width="1000" height="832" key="#Auto_Import" timestamp="1602147834187">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state x="487" y="27" width="1000" height="832" key="#Auto_Import/67.27.1851.832@67.27.1851.832" timestamp="1602147834187" />
+    <state x="741" y="201" width="858" height="484" key="FileChooserDialogImpl" timestamp="1602156018477">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state x="650" y="201" width="424" height="484" key="FileChooserDialogImpl/67.27.1601.832@67.27.1601.832" timestamp="1602133111081" />
+    <state x="741" y="201" width="858" height="484" key="FileChooserDialogImpl/67.27.1851.832@67.27.1851.832" timestamp="1602156018477" />
+    <state width="548" height="656" key="GridCell.Tab.0.bottom" timestamp="1602201212569">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state width="1793" height="573" key="GridCell.Tab.0.bottom/67.27.1847.828@67.27.1847.828" timestamp="1602135702721" />
+    <state width="548" height="656" key="GridCell.Tab.0.bottom/67.27.1851.832@67.27.1851.832" timestamp="1602201212569" />
+    <state width="548" height="656" key="GridCell.Tab.0.center" timestamp="1602201212567">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state width="1793" height="573" key="GridCell.Tab.0.center/67.27.1847.828@67.27.1847.828" timestamp="1602135702719" />
+    <state width="548" height="656" key="GridCell.Tab.0.center/67.27.1851.832@67.27.1851.832" timestamp="1602201212567" />
+    <state width="548" height="656" key="GridCell.Tab.0.left" timestamp="1602201212566">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state width="1793" height="573" key="GridCell.Tab.0.left/67.27.1847.828@67.27.1847.828" timestamp="1602135702718" />
+    <state width="548" height="656" key="GridCell.Tab.0.left/67.27.1851.832@67.27.1851.832" timestamp="1602201212566" />
+    <state width="548" height="656" key="GridCell.Tab.0.right" timestamp="1602201212568">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state width="1793" height="573" key="GridCell.Tab.0.right/67.27.1847.828@67.27.1847.828" timestamp="1602135702720" />
+    <state width="548" height="656" key="GridCell.Tab.0.right/67.27.1851.832@67.27.1851.832" timestamp="1602201212568" />
+    <state width="1797" height="369" key="GridCell.Tab.1.bottom" timestamp="1602199851474">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state width="1797" height="369" key="GridCell.Tab.1.bottom/67.27.1851.832@67.27.1851.832" timestamp="1602199851474" />
+    <state width="1797" height="369" key="GridCell.Tab.1.center" timestamp="1602199851473">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state width="1797" height="369" key="GridCell.Tab.1.center/67.27.1851.832@67.27.1851.832" timestamp="1602199851473" />
+    <state width="1797" height="369" key="GridCell.Tab.1.left" timestamp="1602199851472">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state width="1797" height="369" key="GridCell.Tab.1.left/67.27.1851.832@67.27.1851.832" timestamp="1602199851472" />
+    <state width="1797" height="369" key="GridCell.Tab.1.right" timestamp="1602199851473">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state width="1797" height="369" key="GridCell.Tab.1.right/67.27.1851.832@67.27.1851.832" timestamp="1602199851473" />
+    <state x="411" y="27" width="1149" height="828" key="Maven.ArtifactSearchDialog" timestamp="1602135992244">
+      <screen x="67" y="27" width="1847" height="828" />
+    </state>
+    <state x="411" y="27" width="1149" height="828" key="Maven.ArtifactSearchDialog/67.27.1847.828@67.27.1847.828" timestamp="1602135992244" />
+    <state x="401" y="27" width="1280" height="832" key="SettingsEditor" timestamp="1602158351022">
+      <screen x="67" y="27" width="1851" height="832" />
+    </state>
+    <state x="356" y="78" key="SettingsEditor/67.27.1601.832@67.27.1601.832" timestamp="1602133159564" />
+    <state x="401" y="27" width="1280" height="832" key="SettingsEditor/67.27.1851.832@67.27.1851.832" timestamp="1602158351022" />
+    <state x="523" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1602132918013">
+      <screen x="67" y="27" width="1601" height="832" />
+    </state>
+    <state x="523" y="270" key="com.intellij.ide.util.TipDialog/67.27.1601.832@67.27.1601.832" timestamp="1602132918013" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TF_IDF/FirstReduce.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TF_IDF/FirstMapper.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
